@@ -76,7 +76,7 @@ class UserSeeder extends Seeder
                 'alamat' => 'Ciparay, Bandung',
             ],
             [
-                'name' => 'rama',
+                'name' => 'ramaa',
                 'email' => 'ramaramdani@gmail.com',
                 'password' => Hash::make('password123'),
                 'role' => 'peminjam',
